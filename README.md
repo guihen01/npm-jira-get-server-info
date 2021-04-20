@@ -37,4 +37,5 @@ Test :
   * display of results on console  ................
     8 ( json data : list of users in json format) ..........
 
-https://github.com/guihen01/npm-jira-get-server-info/blob/main/Doc/Capture.GIF
+![alt text](https://github.com/guihen01/npm-jira-get-server-info/blob/main/Doc/Capture.GIF "Logo Title Text 1")
+

@@ -1,0 +1,12 @@
+{
+  "name": "jira-get-server-info",
+  "version": "1.0.0",
+  "description": "Get (list) informations on a given JIRA server",
+  "main": "app.js",
+  "author": {
+    "name": "Henri Guillot"
+  },
+  "repository": "https://github.com/guihen01/npm-jira-get-server-info.git",
+  "keywords": ["jira", "rest api"],
+  "license": " GPL-2.0"
+}

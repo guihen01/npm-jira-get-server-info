@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qovded8bjavxq0aw?svg=true)](https://ci.appveyor.com/project/guihen01/npm-jira-get-server-info)
+
 # Jira-GetServer-Info
 
 get informations from a given JIRA server 
